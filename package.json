@@ -8,9 +8,24 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "better-scroll": "^0.1.15",
     "core-js": "^2.6.5",
+    "css": "^2.2.4",
+    "css-loader": "^2.1.1",
+    "element-react": "^1.4.33",
+    "element-theme-default": "^1.4.13",
+    "element-ui": "^2.8.2",
+    "file-loader": "^3.0.1",
+    "font": "0.0.4",
+    "font-awesome": "^4.7.0",
+    "font-awesome-sass": "^4.7.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
+    "vue-style-loader": "^4.1.2",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
@@ -18,11 +33,14 @@
     "@vue/cli-plugin-eslint": "^3.7.0",
     "@vue/cli-service": "^3.7.0",
     "@vue/eslint-config-prettier": "^4.0.1",
+    "axios": "^0.18.0",
     "babel-eslint": "^10.0.1",
+    "babel-plugin-component": "^1.1.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "less": "^3.0.4",
+    "less": "^3.9.0",
     "less-loader": "^4.1.0",
+    "vue-axios": "^2.1.4",
     "vue-template-compiler": "^2.5.21"
   }
 }
